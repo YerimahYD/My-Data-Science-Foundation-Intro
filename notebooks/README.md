@@ -9,3 +9,8 @@ This repository contains my structured relearning journey covering:
 - Model evaluation concepts
 
 The material is organized as daily notebooks and reflects a progressive understanding of applied machine learning.
+## Progress
+
+- Python, NumPy, pandas foundations
+- Machine Learning concepts & evaluation
+- Probability, uncertainty, bias–variance, regularization
